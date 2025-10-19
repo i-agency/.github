@@ -1,16 +1,13 @@
-### ł₦₮ɆⱠⱠł₲Ɇ₦₵Ɇ₴ SAS
-# we help people publishing things
+# ₩Ɇ ⱧɆⱠ₱ ₱ɆØ₱ⱠɆ ₱Ʉ฿Ⱡł₴Ⱨł₦₲ ₮Ⱨł₦₲₴
 
-# ₱Ʉ฿Ⱡł₵ ₩Ɇ฿₴ł₮Ɇ₴
-
-### ł₦₮ɆⱠⱠł₲Ɇ₦₵Ɇ₴.agency
+### public website
 [GITHUB](https://github.com/i-agency/web) - [WEBSITE](https://intelligences.agency)
 
-### ł₦₮ɆⱠⱠł₲Ɇ₦₵Ɇ₴.blog
+### weblog
 [WEBSITE](https://intelligences.blog)
 
 ---
 
 # ₱ⱤØJɆ₵₮₴
 
-(see you in private repositories)
+Dear customers, your projects are in private repositories.
